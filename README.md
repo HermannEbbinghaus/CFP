@@ -1,12 +1,29 @@
 # CFP
-Repository that contains necessary data to answer call for papers
+This repository contains information needed to answer call for papers.
+
+It is modeled after the [Booster Conf 2020][booster] call for papers request.
+
+## Talk length
+3 hours
 
 ## Title
 
 ## Abstract
 
-## Rough Schedule
+## What roles is this workshop appropriate for?
+Developer, Tester/Test lead, Architect, Designer
 
-## Intended Audience
+## Outline
 
-## Bio
+## Maximum number of participants
+40
+
+## Have you held this workshop before
+This will be the first time this workshop will be given.
+ 
+## What do participants have to bring to the workshop
+
+## Additional speakers
+
+
+[booster]: https://2020.boosterconf.no/
